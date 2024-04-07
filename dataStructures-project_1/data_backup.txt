@@ -1,0 +1,13 @@
+Array push duration (100 int): 9 microseconds
+List push duration (100 int): 117 microseconds
+Array push duration (1000 int): 61 microseconds
+List push duration (1000 int): 10755 microseconds
+Array push duration (10k int): 1071 microseconds
+List push duration (10k int): 1137791 microseconds
+
+Array push duration (100 float): 8 microseconds
+List push duration (100 float): 78 microseconds
+Array push duration (1000 float): 77 microseconds
+List push duration (1000 float): 9409 microseconds
+Array push duration (10k float): 614 microseconds
+List push duration (10k float): 1097022 microseconds
